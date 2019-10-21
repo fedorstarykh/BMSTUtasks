@@ -1,0 +1,7 @@
+D:\Users\Fedor\source\repos\1LAB\1Lab\bin\Release\1Lab.exe.config
+D:\Users\Fedor\source\repos\1LAB\1Lab\bin\Release\1Lab.exe
+D:\Users\Fedor\source\repos\1LAB\1Lab\bin\Release\1Lab.pdb
+D:\Users\Fedor\source\repos\1LAB\1Lab\obj\Release\1Lab.csprojAssemblyReference.cache
+D:\Users\Fedor\source\repos\1LAB\1Lab\obj\Release\1Lab.csproj.CoreCompileInputs.cache
+D:\Users\Fedor\source\repos\1LAB\1Lab\obj\Release\1Lab.exe
+D:\Users\Fedor\source\repos\1LAB\1Lab\obj\Release\1Lab.pdb
