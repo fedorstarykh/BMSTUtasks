@@ -1,7 +1,0 @@
-cd c:\Users\Fedor\Documents\GitHub\BMSTUtasks
-dir // optional
-git status
-git add *filename*//red files 
-git commit -m "commenatary"
-git push
-*gg*
