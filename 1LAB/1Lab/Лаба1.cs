@@ -20,10 +20,12 @@ namespace ConsoleApp1
                 }
                 catch
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Коэффициент должен быть числом. Повторите ввод. ");
                     a = ReadDouble("Коэффициент а: ");
                     b = ReadDouble("Коэффициент b: ");
                     c = ReadDouble("Коэффициент c: ");
+                    Console.ResetColor();
                 }
             }
             else
